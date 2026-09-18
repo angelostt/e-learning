@@ -1,0 +1,32 @@
+.container{
+	border: 1px solid white;
+	height: flex;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.login-box{
+	width: 600px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 5%;
+}
+
+table, td{
+	border-collapse: collapse;
+	border-width:100%;
+	border: 1px solid black;
+	table-layout: fixed;
+    width: 200px;
+	height: 40px;
+}
+
+.style1{
+	text-align: center;
+}
+
+.style2{
+	text-align: right;
+}
